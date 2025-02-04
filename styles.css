@@ -48,11 +48,14 @@ body, html {
 
 #search-container {
     display: inline-block;
-    margin-left: 45rem;
+    margin-left: 50rem;
     height: 100%;
-    width: 15%;
     position: relative;
     top: -35.7%;
+}
+
+#search-container > input {
+    width: 60%;
 }
 
 #banner-container {
