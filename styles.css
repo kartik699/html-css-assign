@@ -5,6 +5,7 @@ body, html {
 
 * {
     box-sizing: border-box;
+    font-family: sans-serif;
 }
 
 #navbar-container {
@@ -48,7 +49,7 @@ body, html {
 
 #search-container {
     display: inline-block;
-    margin-left: 50rem;
+    margin-left: 49rem;
     height: 100%;
     position: relative;
     top: -35.7%;
